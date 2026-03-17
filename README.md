@@ -1,3 +1,4 @@
+link- https://indore-navigator.onrender.com/
 IndoreIQ – AI Smart City Discovery Platform
 
 IndoreIQ is an AI-powered local business discovery and recommendation platform designed to help users explore places, services, and experiences across Indore, Madhya Pradesh.
